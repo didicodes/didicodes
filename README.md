@@ -2,13 +2,13 @@
 
 My name is Edidiong Asikpo. I am a Developer Advocate from Uyo, Nigeria.
 
-I've given over 50+ talks at various tech conferences/meetups across the world and also played a significant role in building 3 of the most impactful developer communities in Africa. 
+I've given over 50+ talks at various tech conferences/meetups across the world and also played a significant role in building 3 of the most impactful developer communities in Africa.
 
-I write technical articles about web development, blogging for developers, soft skills, and Open Source contributions on my blog. 💛
+I write technical articles about Kubernetes, web development, soft skills, and Open Source contributions. 💛
 
 ### Want to connect? 
 
 You can connect with me via any of the platforms below 👇🏾
--   [Blog](https://edidiongasikpo.com/)
 -   [Twitter](https://twitter.com/Didicodes)
+-   [Blog](https://edidiongasikpo.com/)
 -   [LinkedIn](https://www.linkedin.com/in/edidiong-asikpo)
