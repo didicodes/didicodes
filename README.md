@@ -1,6 +1,6 @@
 ### Holla 👋🏾
 
-My name is Edidiong Asikpo. I am a Developer Advocate from Uyo, Nigeria.
+My name is Edidiong Asikpo. I am a Developer Advocate at Ambassador Labs.
 
 I've given over 50+ talks at various tech conferences/meetups across the world and also played a significant role in building 3 of the most impactful developer communities in Africa.
 
