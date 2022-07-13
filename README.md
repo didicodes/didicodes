@@ -1,6 +1,6 @@
 ### Here to learn more about Edidiong? You are in the right place. 💛
 
-Edidiong Asikpo is a Developer Advocate based in Lagos, Nigeria. She is passionate about sharing her knowledge of DevOps through technical articles, videos, and social media.
+Edidiong Asikpo is a Senior Developer Advocate based in Lagos, Nigeria. She is passionate about sharing her knowledge of DevOps through technical articles, videos, and social media.
 
 Edidiong has given over 100+ talks at tech events worldwide and continues to play a significant role in building developer communities in Africa. She is a Certified Kubernetes Application Developer and Open Source contributor.
 
