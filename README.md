@@ -7,6 +7,6 @@ When she's not doing anything tech-related, she travels across the world, takes 
 ### Want to connect? 
 
 You can connect with me via any of the platforms below 👇🏾
--   [Blog](https://edidiongasikpo.com/)
--   [Twitter](https://twitter.com/Didicodes)
 -   [LinkedIn](https://www.linkedin.com/in/edidiong-asikpo)
+-   [Twitter](https://twitter.com/Didicodes)
+-   [Blog](https://edidiongasikpo.com/)
