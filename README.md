@@ -1,8 +1,6 @@
 ### Here to learn more about Edidiong? You are in the right place. 💛
 
-Edidiong Asikpo is a Senior Developer Advocate based in Nigeria. She is passionate about sharing her knowledge of software development and developer advocacy through technical articles, videos, and social media.
-
-Edidiong has given over 100+ talks at tech events worldwide and continues to play a significant role in building developer communities in Africa. She is a Certified Kubernetes Application Developer and Open Source contributor.
+Edidiong is a Senior Developer Advocate with skills in software engineering, technical writing, community building, video creation, and public speaking. Over the years, she has improved the developer experience of several tech companies' products, created technical content, and implemented initiatives that increased awareness, drove sales, and made the company a thought leader in their respective sectors.
 
 When she's not doing anything tech-related, she travels across the world, takes beautiful pictures, and analyzes movies.
 
